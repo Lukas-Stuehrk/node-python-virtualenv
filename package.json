@@ -1,0 +1,23 @@
+{
+    "name": "python-virtualenv",
+    "version": "0.0.1",
+    "description": "Foobar",
+    "author": "Lukas Stührk <Lukas@Stuehrk.net>",
+    "main": "./lib/virtualenv.js",
+    "license": "MIT",
+    "dependencies": {
+        "q": "~0.9.0"
+    },
+    "devDependencies": {
+
+    },
+    "files": [
+        "lib/virtualenv.js",
+        "virtualenv/virtualenv.py",
+        "pip/contrib/get-pip.py"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Lukas-Stuehrk/node-python-virtualenv"
+    }
+}

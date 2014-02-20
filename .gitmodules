@@ -1,0 +1,6 @@
+[submodule "pip"]
+	path = pip
+	url = https://github.com/pypa/pip
+[submodule "virtualenv"]
+	path = virtualenv
+	url = https://github.com/pypa/virtualenv

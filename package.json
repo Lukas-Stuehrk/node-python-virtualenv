@@ -1,6 +1,6 @@
 {
     "name": "python-virtualenv",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Foobar",
     "author": "Lukas Stührk <Lukas@Stuehrk.net>",
     "main": "./lib/virtualenv.js",

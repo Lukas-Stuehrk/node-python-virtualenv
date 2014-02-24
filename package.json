@@ -1,6 +1,6 @@
 {
     "name": "python-virtualenv",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Foobar",
     "author": "Lukas Stührk <Lukas@Stuehrk.net>",
     "main": "./lib/virtualenv.js",
@@ -19,5 +19,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Lukas-Stuehrk/node-python-virtualenv"
+    },
+    "scripts": {
+        "test": "tests/test.sh"
     }
 }
